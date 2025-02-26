@@ -34,14 +34,14 @@ header h1 a{
 }
 
 header h1 a:hover{
-    text-shadow: 2px 2px 0px rgba(31, 30, 30,.2); /ts/
+    text-shadow: 2px 2px 0px rgba(31, 30, 30,.2); /*ts*/
 }
 
 
 header nav{}
 
 header nav ul{
-    list-style: none; /no bolitas/
+    list-style: none; /*no bolitas*/
     display: flex;
 }
 
